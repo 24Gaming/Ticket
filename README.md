@@ -1,4 +1,6 @@
 Körning utan ljus i mörker eller skymning $ 1000;
+
+
 Körning på fel sida av vägen $ 2000;
 Körning utan körkort $ 17.000 + förverkande;
 Terrängkörning $ 5500;
